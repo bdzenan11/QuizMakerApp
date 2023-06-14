@@ -1,0 +1,89 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "name": "Enterwell Quiz",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who was the English mathematician and writer widely considered as the worldq's first computer programmer for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine?",
+          "answer": "Ada Lovelace"
+        },
+        {
+          "id": 2,
+          "question": "What does “www” stand for in a website browser?",
+          "answer": "World Wide Web"
+        },
+        {
+          "id": 3,
+          "question": "How long is an Olympic swimming pool (in meters)?",
+          "answer": "50 meters"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Trivia",
+      "questions": [
+        {
+          "id": 4,
+          "question": "How many languages are written from right to left?",
+          "answer": "12"
+        },
+        {
+          "id": 2,
+          "question": "Who was the first woman to win a Nobel Prize (in 1903)?",
+          "answer": "Marie Curie"
+        },
+        {
+          "id": 3,
+          "question": "The first dictionary was written by?",
+          "answer": "Robert Cawdrey"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Food and drinks",
+      "questions": [
+        {
+          "id": 7,
+          "question": "What is the rarest M&M color?",
+          "answer": "Brown"
+        },
+        {
+          "id": 2,
+          "question": "Which country consumes the most chocolate per capita?",
+          "answer": "Switzerland"
+        },
+        {
+          "id": 3,
+          "question": "What was the first soft drink in space?",
+          "answer": " Coca Cola"
+        },
+        {
+          "id": 4,
+          "question": "From which country does Gouda cheese originate?",
+          "answer": "Netherlands"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who was the English mathematician and writer widely considered as the worldq's first computer programmer for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine?",
+      "answer": "Ada Lovelace"
+    },
+    {
+      "id": 2,
+      "question": "What does “www” stand for in a website browser?",
+      "answer": "World Wide Web"
+    },
+    {
+      "id": 3,
+      "question": "How long is an Olympic swimming pool (in meters)?",
+      "answer": "50 meters"
+    }
+  ]
+}

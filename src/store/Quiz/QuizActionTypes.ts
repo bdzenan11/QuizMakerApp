@@ -1,0 +1,8 @@
+export enum QuizActionTypes {
+	SET_QUIZZES = '[Quiz] SET_QUIZZES',
+	SET_QUIZ = '[Quiz] SET_QUIZ',
+	DELETE_QUIZ = '[Quiz] DELETE_QUIZ',
+	SET_ACTIVE_QUIZ = '[Quiz] SET_ACTIVE_QUIZ',
+	SET_QUESTIONS = '[Quiz] SET_QUESTIONS',
+	SET_INITIAL = '[Quiz] SET_INITIAL ',
+}

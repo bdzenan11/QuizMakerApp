@@ -1,0 +1,22 @@
+.play-quiz-wrapper {
+	background-color: linear-gradient(286.22deg, #313137 -0.14%, #060607 94.41%);
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+}
+
+.answer {
+	opacity: 0;
+	font-style: italic;
+}
+
+.answer.reveal {
+	opacity: 1;
+	font-style: italic;
+}
+
+.question-container {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 10px;
+}
